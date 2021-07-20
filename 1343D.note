@@ -1,0 +1,9 @@
+If the target sum x is fixed, then divide the pairs into three types : 
+
+those who require no changes at all
+those who require exactly one change, 
+and those who require both elements changed.
+
+Calculate the number of the three types separately.
+
+Use prefix sum to maintain the number for all x's.
